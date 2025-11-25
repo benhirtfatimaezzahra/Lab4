@@ -58,15 +58,8 @@ jupyter lab exo_complet.ipynb
 ## Démonstration
 
 Une vidéo illustrant le fonctionnement du programme peut être ajoutée dans le dépôt :
-```
-
-
-
 https://github.com/user-attachments/assets/9fbdb737-cf55-4ce4-9a04-8214578f69a1
 
-
-
-```
 ## Auteur
 
 **Nom :** Benhirt Fatima Ezzahra  
